@@ -62847,8 +62847,8 @@ s.toString
 return B.c.aX(r,s)},
 $S:416}
 A.td.prototype={
-aj(){var s=null
-return new A.Ie(A.c([B.Fm,B.Fq,B.Fl,B.Fp],t.gX),A.c([new A.kY("assets/images/sofa1.jpeg","Style That Invites, Comfort That Lasts",B.w1,B.x,s),new A.kY("assets/images/sofa2.jpeg","Your Perfect Sofa, Your Perfect Space",B.vZ,B.cH,s),new A.kY("assets/images/sofa3.jpeg","Sofas That Make a Statement",B.iR,B.x,s),new A.kY("assets/images/sofa5.jpeg","Designed for Living. Built for Comfort.",B.w0,B.i,s)],t.F))}}
+aj(){var s=null,r="assets/images/sofa2.jpeg"
+return new A.Ie(A.c([B.Fm,B.Fq,B.Fl,B.Fp],t.gX),A.c([new A.kY(r,"Style That Invites, Comfort That Lasts",B.w1,B.x,s),new A.kY(r,"Your Perfect Sofa, Your Perfect Space",B.vZ,B.cH,s),new A.kY(r,"Sofas That Make a Statement",B.iR,B.x,s),new A.kY(r,"Designed for Living. Built for Comfort.",B.w0,B.i,s)],t.F))}}
 A.Ie.prototype={
 P(a){var s=null,r=t.F
 return new A.v7(!0,A.oO(B.cs,A.c([new A.un(!1,B.cu,new A.r3(s),new A.a5E(this),new A.a0J(new A.a5F(this),4,s),B.z,s),new A.cX(B.z0,new A.eU(B.fa,s,s,new A.he(new A.al(0,500,0,1/0),A.ZI(A.c([new A.l7(A.abx(B.zD,s,30),s),new A.l7(A.abx(B.zB,s,35),s),new A.l7(A.abx(B.zz,s,30),s)],r),B.pw),s),s),s),A.afM(new A.a5G(this)),A.lY(new A.cX(B.bq,new A.rj(s),s),B.bn,new A.a5H(),s,s)],r),B.cj),s)}}
